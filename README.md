@@ -23,8 +23,5 @@ I specifically need the **complete dump from the W25Q256 chip** (all regions: de
 
 If anyone owns the same board and can read the chip with a programmer (**CH341A**, **TL866**, etc.) and share the binary file, it would be greatly appreciated.
 
-## Photos
-![Board marking 1](582F1570-94D5-4973-ADD9-F33F8EAE24D7.jpeg)  
-![Board marking 2](5273EC9C-111A-435A-BD5C-F5F4EFFB0FB6.jpeg)
 
 Thanks in advance!
